@@ -1,0 +1,5 @@
+https://github.com/npalm/tf-helloworld-demo/blob/master/main.tf#L9
+
+https://spacelift.io/blog/terraform-tutorial
+https://stackoverflow.com/questions/70276512/invalidclienttokenid-error-aws-when-trying-to-get-caller-identity
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/iam_role_policy
